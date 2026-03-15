@@ -13,12 +13,12 @@ This repository contains Java programs created while learning **Object Oriented 
 
 ## Folder Structure
 
-Arrays – Programs related to array operations
-Basics – Fundamental Java programs
-ClassObject – Programs demonstrating classes and objects
-Inheritances – Examples of inheritance in Java
-MethodOverload – Method overloading examples
-Methods – Programs demonstrating methods and functions
+- **Arrays** – Programs related to array operations  
+- **Basics** – Fundamental Java programs (data types, operators, loops)  
+- **ClassObject** – Programs demonstrating classes and objects  
+- **Inheritances** – Examples of inheritance in Java  
+- **MethodOverload** – Method overloading examples  
+- **Methods** – Programs demonstrating methods and functions
 
 ## Purpose
 
@@ -26,5 +26,5 @@ This repository is part of my learning journey while studying Java OOP concepts 
 
 ## Author
 
-Dhruvanthi K R
+Dhruvanthi K R  
 CSE Student
