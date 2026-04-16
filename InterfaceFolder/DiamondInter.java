@@ -1,4 +1,4 @@
-package Interface;
+package InterfaceFolder;
 interface Car{
     void start();
 }

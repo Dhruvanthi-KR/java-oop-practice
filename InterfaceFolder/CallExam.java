@@ -1,4 +1,4 @@
-package Interface;
+package InterfaceFolder;
 class Student{
     String name;
     String dept;

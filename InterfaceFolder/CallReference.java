@@ -1,4 +1,4 @@
-package Interface;
+package InterfaceFolder;
 class Person{
     String name;
     int age;
