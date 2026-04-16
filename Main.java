@@ -1,4 +1,5 @@
-import Geometry.Rectangle;
+import Geometry.OtherShapes.*;
+// import Geometry.otherShapes.Triangle;
 import Geometry.*;
 // import Geometry.*;
 public class Main {
@@ -10,5 +11,13 @@ public class Main {
         Square obj1 = new Square(10);
         int areaa = obj1.Area();
         System.out.println("Area of Square : "+ areaa);
+
+        Triangle obj2 = new Triangle(3.0,5.0 );
+        double a = obj2.Area();
+        System.out.println("Area of Triangle : "+ a);
+        // System.out.println(obj2.side); DEFAULT 
+        // error: side is not public in Triangle; cannot be accessed from outside package
+        // System.out.println(obj2.def); PROTECTED
+        // error: def has protected access in Triangle
     }
 }
