@@ -1,4 +1,4 @@
-import Geometry.OtherShapes.*;
+// import Geometry.OtherShapes.*;
 // import Geometry.otherShapes.Triangle;
 import Geometry.*;
 // import Geometry.*;
@@ -12,7 +12,7 @@ public class Main {
         int areaa = obj1.Area();
         System.out.println("Area of Square : "+ areaa);
 
-        Triangle obj2 = new Triangle(3.0,5.0 );
+        Geometry.OtherShapes.Triangle obj2 = new Geometry.OtherShapes.Triangle(3.0,5.0 );
         double a = obj2.Area();
         System.out.println("Area of Triangle : "+ a);
         // System.out.println(obj2.side); DEFAULT 
