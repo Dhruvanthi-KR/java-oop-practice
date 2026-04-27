@@ -10,15 +10,25 @@ This repository contains Java programs created while learning **Object Oriented 
 * Classes and Objects
 * Inheritance
 * Method Overloading
+* Exception Handling
+* Interfaces
+* Packages
+* Geometry Programs
+* Lab Practice Programs
 
 ## Folder Structure
 
 - **Arrays** – Programs related to array operations  
 - **Basics** – Fundamental Java programs (data types, operators, loops)  
 - **ClassObject** – Programs demonstrating classes and objects  
+- **Exception** – Programs for exception handling  
+- **Geometry** – Programs related to geometric calculations  
 - **Inheritances** – Examples of inheritance in Java  
+- **InterfaceFolder** – Programs demonstrating interfaces  
+- **LabPrograms** – Lab-based Java programs  
 - **MethodOverload** – Method overloading examples  
-- **Methods** – Programs demonstrating methods and functions
+- **Methods** – Programs demonstrating methods and functions  
+- **PackagesFolder** – Programs using Java packages  
 
 ## Purpose
 
