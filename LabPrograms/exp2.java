@@ -28,9 +28,9 @@ public class exp2 {
             if(isPrime(f2)){
                 larPrime = f2;
             }
+            f2 = f0 + f1;
             f0 = f1;
             f1 = f2;
-            f2 = f0 + f1;
         }
         average = (double)sum / count;
         return larPrime;
