@@ -19,14 +19,14 @@ public class exp2 {
         int f0 = 0, f1 = 1, f2 = 0, count = 0, larPrime = 0;
         while (count < n){
             count++;
-            sum += f2;
-            if(f2 % 2 == 0){
-                sum_even += f2;
+            sum += f0;
+            if(f0 % 2 == 0){
+                sum_even += f0;
             }else{
-                prod_odd *= f2;
+                prod_odd *= f0;
             }
-            if(isPrime(f2)){
-                larPrime = f2;
+            if(isPrime(f0)){
+                larPrime = f0;
             }
             f2 = f0 + f1;
             f0 = f1;
