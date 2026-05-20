@@ -1,3 +1,11 @@
+/*
+Write a Java program to generate the first 'n' terms of the Fibonacci series and 
+determine the following: 
+1. Calculate the sum of all even terms in the series. 
+2. Find the product of all odd terms in the series. 
+3. Find the sum of all terms in the series. 
+4. Calculate the average of the entire series.
+ */
 package LabPrograms;
 import java.util.*;
 public class exp2 {

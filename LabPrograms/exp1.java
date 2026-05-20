@@ -1,9 +1,11 @@
 /*
-1. Develop a Java program for an advanced arithmetic calculator that takes two integer operands and an operator from the user. 
-The program should be capable of performing addition, subtraction, multiplication, and division. 
-Ensure that the program handles input validation, including checking for the validity of the operator and non-negative values for the operands. 
-After each calculation, ask the user if they want to perform another operation and provide a history of previous calculations upon request.
- */
+Develop a Java program for an advanced arithmetic calculator that takes two integer 
+operands and an operator from the user. The program should be capable of performing 
+addition, subtraction, multiplication, and division. Ensure that the program handles input 
+validation, including checking for the validity of the operator and operands. After each 
+calculation, ask the user if they want to perform another operation and provide a history of 
+previous calculations upon request. 
+*/
 package LabPrograms;
 import java.util.*;
 public class exp1 {

@@ -1,3 +1,8 @@
+/*
+Develop a Java program showcasing method overloading with a class "Phone" containing 
+the three dial() method with different parameters, The program should demonstrate and 
+print the result. 
+*/
 package LabPrograms;
 
 class Phone{

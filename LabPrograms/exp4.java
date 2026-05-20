@@ -1,6 +1,6 @@
 /*
-develop a java program illustrating constructor overloading
-for calculating area of rectangle and circle using app constuctor
+Develop a Java program illustrating constructor overloading for calculating the area of a 
+rectangle and a circle using appropriate constructors.
 */
 package LabPrograms;
 
