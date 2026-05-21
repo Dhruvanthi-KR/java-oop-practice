@@ -1,8 +1,13 @@
+/*
+Develop a Java lab program that handles exceptions for division by zero and invalid 
+input. Use `try-catch` blocks to catch `Arithmetic Exception` for division by zero and 
+`Input Mismatch Exception` for non-integer input and provide user-friendly error 
+messages. 
+ */
 package LabPrograms;
 import java.util.*;
 public class exp8 {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         int a, b, c = 0;
         while(true){
